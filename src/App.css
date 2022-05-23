@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.search,
+.about,
+.donate,
+.foster,
+.adopt,
+.other {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.donate {
+  background-image: url('/images/img-1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(148, 63, 63);
+  font-size: 100px;
+}
+.form {
+  background-image: url('/images/img-1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(245, 245, 245);
+  font-size: 20px;
+  display: inline flex;
+  height: 90vh;
+  text-align: center;
+
+
+
+ 
+}
+.adopt {
+
+  color: rgb(8, 8, 8);
+  font-size: 50px;
+}
