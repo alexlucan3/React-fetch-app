@@ -1,1 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+RESPONSIVE WEB APPLICATION 
+Connected to PetFinder REST API for fetching animal-related data
+with a FORM VALIDATION and Captcha
